@@ -1,4 +1,4 @@
-# cloud_tpu_example
+# TPU example on Google Colab
 
 ## MNIST & Keras & TPU
 Keras_MNIST_TPU_(public).ipynb
